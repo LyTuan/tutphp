@@ -1,3 +1,4 @@
 --admin: chứa các file của admin
 ----autoload: chứa các file xử lý chung để tất cả các file khác gọi đến
-----layouts: chứa khung giao diện (header, footer)s
+----layouts: chứa khung giao diện (header, footer)
+----modules: chứa các modules mà chúng ta quản lý như quản lý thành viên, sản phẩm...
