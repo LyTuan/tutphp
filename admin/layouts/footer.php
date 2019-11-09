@@ -32,9 +32,15 @@
     <!-- Core plugin JavaScript-->
     <script src="/tutphp/public/admin/js/jquery.easing.min.js"></script>
 
+
+    <!-- Page level plugin JavaScript-->
+    <script src="/tutphp/public/admin/js/jquery.dataTables.js"></script>
+    <script src="/tutphp/public/admin/js/dataTables.bootstrap4.js"></script>
+
     <!-- Custom scripts for all pages-->
     <script src="/tutphp/public/admin/js/sb-admin.min.js"></script>
-
+    <!-- Demo scripts for this page-->
+    <script src="/tutphp/public/admin/js/datatables-demo.js"></script>
 </body>
 
 </html>

@@ -15,7 +15,7 @@
     <link href="/tutphp/public/admin/css/all.min.css" rel="stylesheet" type="text/css">
 
     <!-- Page level plugin CSS-->
-    <!-- <link href="vendor/datatables/dataTables.bootstrap4.css" rel="stylesheet"> -->
+    <link href="/tutphp/public/admin/css/dataTables.bootstrap4.css" rel="stylesheet">
 
     <!-- Custom styles for this template-->
     <link href="/tutphp/public/admin/css/sb-admin.css" rel="stylesheet">
