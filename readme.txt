@@ -1,0 +1,3 @@
+--admin: chứa các file của admin
+----autoload: chứa các file xử lý chung để tất cả các file khác gọi đến
+----layouts: chứa khung giao diện (header, footer)s
